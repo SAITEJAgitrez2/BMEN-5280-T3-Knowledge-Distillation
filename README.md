@@ -57,6 +57,6 @@ This project implements and evaluates three Knowledge Distillation (KD) techniqu
 ---
 
 ## How to Run the Code
-Use the KnowledgeDistillationfinal.ipynb in colab (try colab pro ans A100 GPU for faster runtime)
+Use the KnowledgeDistillationfinal.ipynb in colab (try colab pro and A100 GPU for faster runtime)
 or use the weights from the link:
 https://drive.google.com/drive/folders/1UBGwBqoC8nzu5JyAemtNMkvCIiSMGa1U?usp=sharing
